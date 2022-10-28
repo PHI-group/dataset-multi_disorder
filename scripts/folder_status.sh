@@ -1,4 +1,4 @@
-#!/bin/bash
+!/usr/bin/bash
 
 # This is a script to check directory tree status dataset management.
 
